@@ -1,4 +1,3 @@
-# mlsd_links
 Links for learning Machine Learning System Design
 
 ## Feature Engineering
@@ -13,7 +12,7 @@ Links for learning Machine Learning System Design
 ## Courses
  - https://ods.ai/tracks/ml-system-design-22
  - https://karpov.courses/simulator-ml
- - 
+ - https://www.educative.io/courses/grokking-the-machine-learning-interview
 
 ## Other resources
  - https://github.com/ibragim-bad/machine-learning-design-primer
