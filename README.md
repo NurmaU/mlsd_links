@@ -8,6 +8,8 @@ Links for learning Machine Learning System Design
  - Twitter: https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter
  - Yandex: https://habr.com/ru/company/yandex/blog/455427/
  - Yandex Search: https://habr.com/ru/company/yandex/blog/162245/
+ - Pinterest: https://medium.com/pinterest-engineering/pinnersage-multi-modal-user-embedding-framework-for-recommendations-at-pinterest-bfd116b49475
+ - 
  
 
 ## Courses
